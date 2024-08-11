@@ -30,6 +30,6 @@
 
 
 ## Simulation 
-[Watch the video](video/1.mp4)
-
-
+[Watch the video1](video/1.mp4)
+[Watch the video2](video/4.avi)
+[Watch the video3](video/6.mp4)

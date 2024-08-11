@@ -25,12 +25,11 @@
 - observed the rotational motion but of one wheel such that other wheel was pivoted (smaller velocity)
 - changed the sign of velocity to get circular motion of random radii 
 
+![alt text](images/image.png)
+![alt text](images/imag2.png)
+
 
 ## Simulation 
-<video width="320" height="240" controls>
-  <source src="task_1/1.avi" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Watch the video](video/1.mp4)
 
-<!-- <video src="1.avi" width="320" height="240" controls></video>
-![video]("/") -->
+

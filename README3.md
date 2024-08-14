@@ -19,4 +19,10 @@
 - found relative position of my bot w.r.t every point 
 - assigned number to waypoints(image)
 - PID didn't workout.
-- SO I added a improvised method that will reduce it's parameters(speed or angle) and then set angle as they were all perpendicular to each other
+- SO I added a impr
+
+https://github.com/user-attachments/assets/de532e0a-b0ac-4a7b-89dc-ad73c83f1068
+
+ovised method that will reduce it's parameters(speed or angle) and then set angle as they were all perpendicular to each other
+
+- unable to upload the bigger file.
